@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.contact__table th {
+  padding: 10px;
+  color: #0070d2;
+}
